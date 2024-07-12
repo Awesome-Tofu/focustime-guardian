@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "FocusTime Guardian",
+  "version": "1.0",
+  "permissions": [
+    "tabs",
+    "webNavigation",
+    "storage",
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "description": "Take control of your digital life with FocusTime Guardian. Designed to help you manage your time effectively, this extension curtails endless scrolling on YouTube Shorts and Instagram Reels, empowering you to reclaim your focus and enhance productivity. Perfect for anyone looking to improve their attention span and make the most out of their workday.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
