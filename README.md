@@ -35,7 +35,7 @@ Enjoy more productive browsing sessions with FocusTime Guardian!
 
 Only large or major sites will be considered
 
-1. Search on [issues](https://github.com/Awesome-Tofu/focustime-guardian/issues) if the site is already being registered.
+1. Search on [issues](https://github.com/Awesome-Tofu/focustime-guardian/issues) if the site is already being requested.
 2. If not, create a [new issue](https://github.com/Awesome-Tofu/focustime-guardian/issues/new/choose) and choose `Platform request`
 
 ## Bug report
